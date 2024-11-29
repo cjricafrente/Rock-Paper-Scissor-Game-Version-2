@@ -1,0 +1,9 @@
+path: '/content/gdrive/My Drive/rpsv2/annotation/datasetsv2/final'
+train: '/content/gdrive/My Drive/rpsv2/annotation/datasetsv2/final/train'
+val: '/content/gdrive/My Drive/rpsv2/annotation/datasetsv2/final/valid'  # If you have a validation set, else use train for both
+
+nc: 3  # Number of classes (rock, paper, scissors)
+names:
+  0: 'rock'
+  1: 'paper'
+  2: 'scissors'
